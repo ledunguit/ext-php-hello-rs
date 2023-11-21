@@ -16,4 +16,4 @@ php -d extension=../target/debug/libkmp.dylib -S localhost:8080
 1.0
 ```
 
-![Image](https://github.com/ledunguit/php-ext-rs/blob/master/extension.png?raw=true)
+![Image](https://github.com/ledunguit/ext-php-hello-rs/blob/master/images/extension.png?raw=true)
